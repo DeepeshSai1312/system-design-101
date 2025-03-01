@@ -5,7 +5,7 @@
 <p align="center">
   【
   <a href="https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw">
-    👨🏻‍💻 YouTube
+    👨🏻‍💻 YouTube 
   </a> | 
   <a href="https://blog.bytebytego.com/?utm_source=site">
     📮 Newsletter
